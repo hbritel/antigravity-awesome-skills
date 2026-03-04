@@ -2,7 +2,7 @@
 
 Generated at: 2026-02-08T00:00:00.000Z
 
-Total skills: 970
+Total skills: 973
 
 ## architecture (67)
 
@@ -467,7 +467,7 @@ applications. | php | php, pro, write, idiomatic, code, generators, iterators, s
 | `webapp-testing` | Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing... | webapp | webapp, testing, toolkit, interacting, local, web, applications, playwright, supports, verifying, frontend, functionality |
 | `zustand-store-ts` | Create Zustand stores with TypeScript, subscribeWithSelector middleware, and proper state/action separation. Use when building React state management, creati... | zustand, store, ts | zustand, store, ts, stores, typescript, subscribewithselector, middleware, proper, state, action, separation, building |
 
-## general (190)
+## general (193)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -584,6 +584,9 @@ applications. | php | php, pro, write, idiomatic, code, generators, iterators, s
 | `julia-pro` | Master Julia 1.10+ with modern features, performance optimization, multiple dispatch, and production-ready practices. | julia | julia, pro, 10, features, performance, optimization, multiple, dispatch |
 | `last30days` | Research a topic from the last 30 days on Reddit + X + Web, become an expert, and write copy-paste-ready prompts for the user's target tool. | last30days | last30days, research, topic, last, 30, days, reddit, web, become, write, copy, paste |
 | `legacy-modernizer` | Refactor legacy codebases, migrate outdated frameworks, and implement gradual modernization. Handles technical debt, dependency updates, and backward compati... | legacy, modernizer | legacy, modernizer, refactor, codebases, migrate, outdated, frameworks, gradual, modernization, technical, debt, dependency |
+| `lightning-architecture-review` | Review Bitcoin Lightning Network protocol designs, compare channel factory approaches, and analyze Layer 2 scaling tradeoffs. Covers trust models, on-chain f... | lightning, architecture, review | lightning, architecture, review, bitcoin, network, protocol, channel, factory, layer, 2, scaling, tradeoffs |
+| `lightning-channel-factories` | Technical reference on Lightning Network channel factories, multi-party channels, LSP architectures, and Bitcoin Layer 2 scaling without soft forks. Covers D... | lightning, channel, factories | lightning, channel, factories, network, multi, party, lsp, architectures, bitcoin, layer, 2, scaling |
+| `lightning-factory-explainer` | Explain Bitcoin Lightning channel factories and the SuperScalar protocol — scalable Lightning onboarding using shared UTXOs, Decker-Wattenhofer trees, timeo... | lightning, factory, explainer | lightning, factory, explainer, bitcoin, channel, factories, superscalar, protocol, scalable, onboarding, shared, utxos |
 | `linear-claude-skill` | Manage Linear issues, projects, and teams | linear, claude, skill | linear, claude, skill, issues, teams |
 | `lint-and-validate` | Automatic quality control, linting, and static analysis procedures. Use after every code modification to ensure syntax correctness and project standards. Tri... | lint, and, validate | lint, and, validate, automatic, quality, control, linting, static, analysis, procedures, after, every |
 | `linux-privilege-escalation` | This skill should be used when the user asks to "escalate privileges on Linux", "find privesc vectors on Linux systems", "exploit sudo misconfigurations", "a... | linux, privilege, escalation | linux, privilege, escalation, skill, should, used, user, asks, escalate, privileges, find, privesc |

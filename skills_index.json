@@ -5760,6 +5760,36 @@
     "date_added": "2026-02-27"
   },
   {
+    "id": "lightning-architecture-review",
+    "path": "skills/lightning-architecture-review",
+    "category": "general",
+    "name": "lightning-architecture-review",
+    "description": "Review Bitcoin Lightning Network protocol designs, compare channel factory approaches, and analyze Layer 2 scaling tradeoffs. Covers trust models, on-chain footprint, consensus requirements, HTLC/PTLC compatibility, liveness, and watchtower support.",
+    "risk": "unknown",
+    "source": "community",
+    "date_added": "2026-03-03"
+  },
+  {
+    "id": "lightning-channel-factories",
+    "path": "skills/lightning-channel-factories",
+    "category": "general",
+    "name": "lightning-channel-factories",
+    "description": "Technical reference on Lightning Network channel factories, multi-party channels, LSP architectures, and Bitcoin Layer 2 scaling without soft forks. Covers Decker-Wattenhofer, timeout trees, MuSig2 key aggregation, HTLC/PTLC forwarding, and watchtower breach detection.",
+    "risk": "unknown",
+    "source": "community",
+    "date_added": "2026-03-03"
+  },
+  {
+    "id": "lightning-factory-explainer",
+    "path": "skills/lightning-factory-explainer",
+    "category": "general",
+    "name": "lightning-factory-explainer",
+    "description": "Explain Bitcoin Lightning channel factories and the SuperScalar protocol — scalable Lightning onboarding using shared UTXOs, Decker-Wattenhofer trees, timeout-signature trees, MuSig2, and Taproot. No soft fork required.",
+    "risk": "unknown",
+    "source": "community",
+    "date_added": "2026-03-03"
+  },
+  {
     "id": "linear-automation",
     "path": "skills/linear-automation",
     "category": "uncategorized",
