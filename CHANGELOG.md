@@ -9,6 +9,46 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [8.10.0] - 2026-03-26 - "Discovery Boost for Social, MCP, and Ops"
+
+> Installable skill library update for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, Windsurf, Cline, and related AI coding assistants.
+
+Start here:
+
+- Install: `npx antigravity-awesome-skills`
+- Choose your tool: [README -> Choose Your Tool](https://github.com/sickn33/antigravity-awesome-skills#choose-your-tool)
+- Best skills by tool: [README -> Best Skills By Tool](https://github.com/sickn33/antigravity-awesome-skills#best-skills-by-tool)
+- Bundles: [docs/users/bundles.md](https://github.com/sickn33/antigravity-awesome-skills/blob/main/docs/users/bundles.md)
+- Workflows: [docs/users/workflows.md](https://github.com/sickn33/antigravity-awesome-skills/blob/main/docs/users/workflows.md)
+
+This release improves discovery and day-to-day usefulness for Claude Code, Cursor, Codex CLI, Windsurf, Cline, and similar agent workflows. It adds two new installable skills for X/Twitter extraction and MCP server evaluation, brings in two more community skill collections for study automation and HubSpot CRM operations, and refreshes the registry/docs surface to `1,328+` skills.
+
+## New Skills
+
+- **adhx** - fetch X/Twitter and ADHX links as clean LLM-friendly JSON with article content, author data, and engagement metrics (PR #396).
+- **clarvia-aeo-check** - score MCP servers, APIs, and CLIs for agent-readiness before installation (PR #402).
+
+## Improvements
+
+- **Community discovery**: added `Tutor Skills` to the Community Contributed Skills list for Obsidian study-vault generation and interactive quiz-based learning from PDFs, docs, and codebases (PR #400).
+- **CRM operations coverage**: added `HubSpot Admin Skills` to the Community Contributed Skills list, surfacing 32 Claude Code skills for auditing, cleaning, enriching, and automating HubSpot CRM workflows (PR #403).
+- **Registry sync**: merged the batch via GitHub squash flow, refreshed generated artifacts, and kept `main` aligned with the current `1,328+` skill catalog.
+
+## Who should care
+
+- **Claude Code, Cursor, Codex CLI, Windsurf, and Cline users** get a new social-reading skill plus a practical pre-install check for MCP and tool selection workflows.
+- **Students, educators, and knowledge-workflow builders** get easier discovery of the Tutor Skills community collection for turning source material into interactive study vaults.
+- **RevOps, marketing ops, and HubSpot-heavy teams** get a clearer path to the HubSpot Admin Skills collection for CRM audits, cleanup, enrichment, and automation playbooks.
+
+## Credits
+
+- **[@conspirafi](https://github.com/conspirafi)** for the new `adhx` skill in PR #396
+- **[@digitamaz](https://github.com/digitamaz)** for the new `clarvia-aeo-check` skill in PR #402
+- **[@RoundTable02](https://github.com/RoundTable02)** for adding `Tutor Skills` to the community listings in PR #400
+- **[@TomGranot](https://github.com/TomGranot)** for adding `HubSpot Admin Skills` to the community listings in PR #403
+
+Upgrade now: `git pull origin main` to fetch the latest skills.
+
 ## [8.9.0] - 2026-03-25 - "Apple Workflow Expansion and Data Platform Additions"
 
 > Installable skill library update for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and related AI coding assistants.
