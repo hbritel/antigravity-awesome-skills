@@ -39,6 +39,7 @@ const LOCAL_TEST_COMMANDS = [
   [path.join(TOOL_SCRIPTS, "run-python.js"), path.join(TOOL_TESTS, "test_sync_microsoft_skills_security.py")],
   [path.join(TOOL_SCRIPTS, "run-python.js"), path.join(TOOL_TESTS, "test_sync_repo_metadata.py")],
   [path.join(TOOL_SCRIPTS, "run-python.js"), path.join(TOOL_TESTS, "test_sync_contributors.py")],
+  [path.join(TOOL_SCRIPTS, "run-python.js"), path.join(TOOL_TESTS, "test_sync_risk_labels.py")],
   [path.join(TOOL_SCRIPTS, "run-python.js"), path.join(TOOL_TESTS, "test_validation_warning_budget.py")],
   [path.join(TOOL_SCRIPTS, "run-python.js"), path.join(TOOL_TESTS, "test_whatsapp_config_logging_security.py")],
   [path.join(TOOL_SCRIPTS, "run-python.js"), path.join(TOOL_TESTS, "test_maintainer_audit.py")],
