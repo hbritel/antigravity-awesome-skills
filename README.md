@@ -557,12 +557,17 @@ We officially thank the following contributors for their help in making this rep
 - [@tanveer-farooq](https://github.com/tanveer-farooq)
 - [@unitedideas](https://github.com/unitedideas)
 - [@zhangyanxs](https://github.com/zhangyanxs)
-- [@1bcMax](https://github.com/1bcMax)
 - [@avij1109](https://github.com/avij1109)
 - [@mark1ian](https://github.com/mark1ian)
 - [@MohamedAbdallah-14](https://github.com/MohamedAbdallah-14)
 - [@voidborne-d](https://github.com/voidborne-d)
 - [@xiaolai](https://github.com/xiaolai)
+- [@aptratcn](https://github.com/aptratcn)
+- [@BuyWhere](https://github.com/BuyWhere)
+- [@clubanderson](https://github.com/clubanderson)
+- [@flyingsquirrel0419](https://github.com/flyingsquirrel0419)
+- [@hyhmrright](https://github.com/hyhmrright)
+- [@kench001](https://github.com/kench001)
 
 ## Star History
 
