@@ -541,7 +541,6 @@ We officially thank the following contributors for their help in making this rep
 - [@umutbozdag](https://github.com/umutbozdag)
 - [@WHOISABHISHEKADHIKARI](https://github.com/WHOISABHISHEKADHIKARI)
 - [@818cortex](https://github.com/818cortex)
-- [@connerlambden](https://github.com/connerlambden)
 - [@edudeftones-cloud](https://github.com/edudeftones-cloud)
 - [@emanoelCarvalho](https://github.com/emanoelCarvalho)
 - [@Evozim](https://github.com/Evozim)
@@ -668,6 +667,9 @@ We officially thank the following contributors for their help in making this rep
 - [@Simon-He95](https://github.com/Simon-He95)
 - [@Siphon880gh](https://github.com/Siphon880gh)
 - [@ymxlx](https://github.com/ymxlx)
+- [@maleksaadi0109](https://github.com/maleksaadi0109)
+- [@merc1305](https://github.com/merc1305)
+- [@nickdesi](https://github.com/nickdesi)
 
 ## Star History
 
